@@ -2,7 +2,7 @@ class Solution:
     def reverseArray(self, arr):
         n = len(arr)
         
-        # Swap elements from start and end
+        # Swap elements from start and end both
         for i in range(n // 2):
             arr[i], arr[n - i - 1] = arr[n - i - 1], arr[i]
         
