@@ -9,7 +9,7 @@ class Solution:
 
             if arr[i] > maximum:
                 maximum = arr[i]
-
+// return statement 
         return [minimum, maximum]
 
 
