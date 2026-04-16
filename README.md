@@ -24,4 +24,4 @@ The goal of this repository is to document my learning journey and strengthen my
 ## 🚀 Author
 
 Ritesh Rajpurohit
-IILM University , Greater Noida
+IILM University, Greater Noida
